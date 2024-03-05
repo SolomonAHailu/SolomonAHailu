@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 # ABOUT ME
 🤙 Hello, I'm Solomon, an electrical engineer emphasizing the development of practical skills. During my time at Addis Ababa University in recent years, I've acquired valuable knowledge and expertise. I am confident that these experiences will significantly contribute to my future as an electrical and computer engineer. My exceptional written and verbal communication skills allow me to articulate complex concepts clearly. Moreover, my proficiency in time management ensures consistent adherence to project deadlines.
 
@@ -24,6 +23,8 @@
 
 - **Secondary Languages(s):** English
 --- ***Levels:*** A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
+
+<iframe src="https://giphy.com/embed/11JTxkrmq4bGE0" width="480" height="369" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-computer-working-11JTxkrmq4bGE0">via GIPHY</a></p>
 
 # DIGITAL SKILLS
 - Computer Architecture
