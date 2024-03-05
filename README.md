@@ -24,8 +24,6 @@
 - **Secondary Languages(s):** English
 --- ***Levels:*** A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
 
-<iframe src="https://giphy.com/embed/11JTxkrmq4bGE0" width="480" height="369" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-computer-working-11JTxkrmq4bGE0">via GIPHY</a></p>
-
 # DIGITAL SKILLS
 - Computer Architecture
 - Machine Learning
