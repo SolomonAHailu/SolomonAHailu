@@ -1,3 +1,5 @@
+![sol](https://github.com/SolomonAHailu/SolomonAHailu/assets/117452698/e4cfaef9-3aa6-457f-92c2-5c5e8e9de75a)
+
 ### Hi there 👋
 
 
