@@ -3,7 +3,7 @@
 👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀
 
 
-## CONTACT INFORMATION
+## Contact information
 
 - **Phone number:** (+251) 993704033
 - **Email address:** solomonasregdew1992@gmail.com
@@ -14,20 +14,22 @@
 [
 ![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=61555465281320)
 
-## LANGUAGE SKILLS
+## Languages
 - **Mother tongue(s):** Amharic
 
 - **Secondary Languages(s):** English
 
-## DIGITAL SKILLS
-- Machine Learning
-- Programming:
-  - Python
-  - Node.js
-  - React
-  - JavaScript (Js)
-- Microsoft Office
-- Video Editing
-- Website Development
-- C (Programming Language)
-- AutoCAD
+## Technical Skills
+#### Frontend 
+HTML, CSS, JavaScript, React, Tailwind CSS, Material UI
+#### Backend
+Node.js, Django
+#### Full Stack Development
+Mobile and Web Apps
+#### Database Management
+SQL, MongoDB
+#### Tools
+VS Code, AutoCAD
+#### Additional Skills
+Video Editing
+
