@@ -6,8 +6,6 @@
 
 # CONTACT INFORMATION
 
-- **Name:** Solomon Asregdew Hailu
-- **Nationality:** Ethiopian 
 - **Phone number:** (+251) 993704033
 - **Email address:** solomonasregdew1992@gmail.com
 - **WhatsApp Messenger:** (+251) 99 370 4033
@@ -25,13 +23,10 @@
 --- ***Levels:*** A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
 
 # DIGITAL SKILLS
-- Computer Architecture
 - Machine Learning
 - Programming:
   - Python
   - Node.js
-  - Ruby
-  - Bash
   - React
   - JavaScript (Js)
 - Microsoft Office
