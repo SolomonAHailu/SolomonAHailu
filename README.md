@@ -17,10 +17,8 @@
 
 # LANGUAGE SKILLS
 - **Mother tongue(s):** Amharic
---- **Levels:** A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
 
 - **Secondary Languages(s):** English
---- ***Levels:*** A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
 
 # DIGITAL SKILLS
 - Machine Learning
