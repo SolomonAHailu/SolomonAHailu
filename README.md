@@ -1,9 +1,9 @@
-### Hi there, I'm Solomon! 👋
+# Hi there, I'm Solomon! 👋
 
 👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀
 
 
-# CONTACT INFORMATION
+## CONTACT INFORMATION
 
 - **Phone number:** (+251) 993704033
 - **Email address:** solomonasregdew1992@gmail.com
@@ -14,12 +14,12 @@
 [
 ![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=61555465281320)
 
-# LANGUAGE SKILLS
+## LANGUAGE SKILLS
 - **Mother tongue(s):** Amharic
 
 - **Secondary Languages(s):** English
 
-# DIGITAL SKILLS
+## DIGITAL SKILLS
 - Machine Learning
 - Programming:
   - Python
