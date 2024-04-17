@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Solomon! 👋
 
-# ABOUT ME
-🤙 Hello, I'm Solomon, an electrical engineer emphasizing the development of practical skills. During my time at Addis Ababa University in recent years, I've acquired valuable knowledge and expertise. I am confident that these experiences will significantly contribute to my future as an electrical and computer engineer. My exceptional written and verbal communication skills allow me to articulate complex concepts clearly. Moreover, my proficiency in time management ensures consistent adherence to project deadlines.
+👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀
 
 
 # CONTACT INFORMATION
