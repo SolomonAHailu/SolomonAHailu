@@ -20,16 +20,16 @@
 - **Secondary Languages(s):** English
 
 ## Technical Skills
-#### Frontend 
+- **Frontend**
 HTML, CSS, JavaScript, React, Tailwind CSS, Material UI
-#### Backend
+- **Backend*
 Node.js, Django
-#### Full Stack Development
+- **Full Stack Development**
 Mobile and Web Apps
-#### Database Management
+- **Database Management**
 SQL, MongoDB
-#### Tools
+- **Tools**
 VS Code, AutoCAD
-#### Additional Skills
+- **Additional Skills**
 Video Editing
 
