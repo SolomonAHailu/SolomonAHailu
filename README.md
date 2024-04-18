@@ -5,7 +5,7 @@
 
 ## Contact information
 
-- **Phone number:** (+251) 993704033
+- **Phone number:** (+251) 99 370 4033
 - **Email address:** solomonasregdew1992@gmail.com
 - **WhatsApp Messenger:** (+251) 99 370 4033
 <br><br>
