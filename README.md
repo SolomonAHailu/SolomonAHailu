@@ -14,6 +14,7 @@
 ![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/SolomonAsregdew/)
 [
 ![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=61555465281320)
+![Website](https://img.icons8.com/color/48/000000/website.png)](https://solomonasregdew.vercel.app/)
 
 ## Languages
 - **Mother tongue(s):** Amharic
