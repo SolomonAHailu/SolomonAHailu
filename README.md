@@ -2,11 +2,12 @@
 
 ###
 
-<h3 align="left">👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</h3>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNlamliZG50ajBpNmt3eGVpZGQ4ZzM5bGs1a3NuOHRobDY1cHY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNlamliZG50ajBpNmt3eGVpZGQ4ZzM5bGs1a3NuOHRobDY1cHY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif"  />
+
+<h3 align="left">👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</h3>
 
 ###
 <div align="left">
