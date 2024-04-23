@@ -36,18 +36,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNlamliZG50ajBpNmt3eGVpZGQ4ZzM5bGs1a3NuOHRobDY1cHY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif"  />
 
 ###
 
@@ -80,7 +76,15 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNlamliZG50ajBpNmt3eGVpZGQ4ZzM5bGs1a3NuOHRobDY1cHY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif"  />
+
+###
+
 <img src="https://raw.githubusercontent.com/SolomonAHailu/SolomonAHailu/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</h3>
 
 ###
 
@@ -89,9 +93,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31thbujambmapznuejd56vkp246i&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<p align="left">👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</p>
 
 ###
