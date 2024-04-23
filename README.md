@@ -84,6 +84,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/SolomonAHailu/SolomonAHailu/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</h3>
 
 ###
