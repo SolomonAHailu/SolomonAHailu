@@ -10,11 +10,8 @@
 - **Email address:** solomonasregdew1992@gmail.com
 - **WhatsApp Messenger:** (+251) 99 370 4033
 <br><br>
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/Solomon_a_hailu) [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/solomon_a_hailu/) [![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/@solomonasregdew7972) [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/solomonasregdew/) [
-![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/SolomonAsregdew/)
-[
-![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=61555465281320)
-![Website](https://img.icons8.com/color/48/000000/website.png)](https://solomonasregdew.vercel.app/)
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/Solomon_a_hailu) [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/solomon_a_hailu/) [![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/@solomonasregdew7972) [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/solomonasregdew/) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/SolomonAsregdew/) [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=61555465281320) [![Website](https://img.icons8.com/color/48/000000/website.png)](https://solomonasregdew.vercel.app/)
+
 
 ## Languages
 - **Mother tongue(s):** Amharic
