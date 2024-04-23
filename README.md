@@ -80,11 +80,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SolomonAHailu/SolomonAHailu/output/snake.svg" alt="Snake animation" />
-
 ###
-
-<img src="https://raw.githubusercontent.com/SolomonAHailu/SolomonAHailu/output/snake.svg" alt="Snake animation" />
 
 ###
 
