@@ -85,3 +85,21 @@
 <img src="https://raw.githubusercontent.com/SolomonAHailu/SolomonAHailu/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31thbujambmapznuejd56vkp246i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31thbujambmapznuejd56vkp246i&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<p align="left">👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</p>
+
+###
