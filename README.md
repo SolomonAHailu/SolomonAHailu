@@ -36,7 +36,7 @@
 
 ###
 
-<h3 style="text-align: justify; padding-left: 10px;">
+<h3 style="text-align: justify; padding-rigt: 10px;">
   👋 Welcome to my GitHub! I'm Solomon, an engineer from Ethiopia with a passion for solving complex problems and crafting innovative solutions. Throughout my career, I've tackled a variety of projects that combine creative thinking with solid technical expertise. 🔧🧠 Always eager for new challenges, I continuously strive to hone my skills and push the boundaries of what I can achieve. 🚀
 </h3>
 
