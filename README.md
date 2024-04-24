@@ -35,7 +35,9 @@
 
 ###
 
-<h3 align="justify" style={{margin: 20, color: 'blue' }} >👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</h3>
+<h3 style="text-align: justify; padding-left: 10px;">
+  👋 Welcome to my GitHub! I'm Solomon, an engineer from Ethiopia with a passion for solving complex problems and crafting innovative solutions. Throughout my career, I've tackled a variety of projects that combine creative thinking with solid technical expertise. 🔧🧠 Always eager for new challenges, I continuously strive to hone my skills and push the boundaries of what I can achieve. 🚀
+</h3>
 
 ###
 
