@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="justify" style={{padding-left: 10px}} >👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</h3>
+<h3 align="justify" style={{padding: 20 }} >👋 Welcome to my GitHub! I'm an engineer with a passion for solving complex problems and building innovative solutions. Throughout my career, I've worked on a variety of projects that blend creative thinking with technical skills. 🔧🧠 I'm always eager to tackle new challenges and improve my skills. 🚀</h3>
 
 ###
 
