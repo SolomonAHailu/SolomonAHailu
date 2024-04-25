@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, Solomon from Ethiopia here!</h1>
 
 ###
-</br>
+
 </br>
 <div align="center">
   <a href="https://www.linkedin.com/in/solomonasregdew" target="_blank">
