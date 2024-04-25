@@ -26,11 +26,10 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNlamliZG50ajBpNmt3eGVpZGQ4ZzM5bGs1a3NuOHRobDY1cHY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif"  />
 
 ###
-<div align="left" width="70%">
-<h3 style="text-align: justify;">
+
+<h3 style="text-align: justify;" width="300px">
   👋 Welcome to my GitHub! I'm Solomon, an engineer from Ethiopia with a passion for solving complex problems and crafting innovative solutions. Throughout my career, I've tackled a variety of projects that combine creative thinking with solid technical expertise. 🔧🧠 Always eager for new challenges, I continuously strive to hone my skills and push the boundaries of what I can achieve. 🚀
 </h3>
-</div>
 
 ###
 </br>
