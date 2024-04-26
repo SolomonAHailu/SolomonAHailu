@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hey, Solomon from Ethiopia here!</h1>
+<hr/>
 
 ###
 </br>
