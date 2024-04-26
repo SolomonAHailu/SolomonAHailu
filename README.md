@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
+<hr/>
 
 ###
 
@@ -29,7 +30,6 @@
 <h3 style="text-align: justify;" >
   👋 Welcome to my GitHub! I'm Solomon, an engineer from Ethiopia with a passion for solving complex problems and crafting innovative solutions. Throughout my career, I've tackled a variety of projects that combine creative thinking with solid technical expertise. 🔧🧠 Always eager for new challenges, I continuously strive to hone my skills and push the boundaries of what I can achieve. 🚀
 </h3>
-<hr/>
 
 ###
 </br>
@@ -69,6 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 </br>
+
 <hr/>
 
 ###
