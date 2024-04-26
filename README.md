@@ -1,5 +1,4 @@
-<h2 align="center" size="3rem">👋 Hey, Solomon from Ethiopia here!</h2>
-<hr/>
+<h1 align="center" size="3rem">👋 Hey, Solomon from Ethiopia here!</h1>
 
 ###
 </br>
@@ -20,6 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
+<hr/>
 
 ###
 
