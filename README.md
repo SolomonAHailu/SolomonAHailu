@@ -1,4 +1,4 @@
-<p align="center" size="20px">👋 Hey, Solomon from Ethiopia here!</p>
+<p align="center" size="40px">👋 Hey, Solomon from Ethiopia here!</p>
 <hr/>
 
 ###
