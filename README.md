@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
-<hr/>
 
 ###
 
@@ -85,5 +84,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31thbujambmapznuejd56vkp246i&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+<hr/>
 
 ###
