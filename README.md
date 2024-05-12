@@ -1,6 +1,4 @@
-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
-
-git remote set-url origin https://SolomonAHailu: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@github.com/SolomonAHailu/trolley
+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
 
 <h1 align="center" size="3rem">👋 Hey, Solomon from Ethiopia here!</h1>
 
