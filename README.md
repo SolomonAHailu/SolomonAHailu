@@ -1,5 +1,3 @@
-Hola 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
-
 <h1 align="center" size="3rem">👋 Hey, Solomon from Ethiopia here!</h1>
 
 ###
