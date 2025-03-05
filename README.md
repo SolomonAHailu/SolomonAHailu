@@ -1,7 +1,7 @@
 <h1 align="center" size="3rem">👋 Hey, Solomon here!</h1>
 
 ### 
-</br> 
+</br>
 <div align="center">
   <a href="https://www.linkedin.com/in/solomonasregdew" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  
