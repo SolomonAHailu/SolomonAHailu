@@ -22,8 +22,10 @@
 <br/> 
 <br/>
 
-<img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="Coding gif" />
-<br />
+<div style="padding: 1rem">
+  <img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="Coding gif" />
+</div>
+
 <h3 align="justify">
   👋 Welcome to my GitHub! I'm Solomon, an engineer driven by curiosity and passionate about solving challenging problems through innovative, tech-forward solutions. From full-stack development to embedded systems, I enjoy merging creativity with code. I'm always up for a new challenge, continuously evolving, building, and exploring. 🚀🔧
 </h3>
