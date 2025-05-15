@@ -17,14 +17,13 @@
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /> 
   </a>
 
-  <img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="Coding gif" />
-</div> 
+  </div>
 
 <br/> 
 <br/>
 
 <img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="Coding gif" />
-
+<br />
 <h3 align="justify">
   👋 Welcome to my GitHub! I'm Solomon, an engineer driven by curiosity and passionate about solving challenging problems through innovative, tech-forward solutions. From full-stack development to embedded systems, I enjoy merging creativity with code. I'm always up for a new challenge, continuously evolving, building, and exploring. 🚀🔧
 </h3>
