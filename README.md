@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 3rem;">👋 Hey, Solomon here!</h1>
 
-<br/>
+<hr/>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/solomonasregdew" target="_blank">
@@ -53,15 +53,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" /> 
 </div>
 
-<br/>
-<hr/>
-
-<br/>
+<br/> 
 
 <div align="center">
   <a href="https://open.spotify.com/user/31thbujambmapznuejd56vkp246i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31thbujambmapznuejd56vkp246i&count=5&unique=false" alt="Spotify Recently Played" />
   </a>
 </div>
-
-<hr/>
