@@ -1,4 +1,3 @@
-
 <h1 align="center" style="font-size: 3rem;">👋 Hey, Solomon here!</h1>
 
 <div align="center"> 
