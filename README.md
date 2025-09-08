@@ -1,4 +1,4 @@
- <h1 align="center" style="font-size: 3rem;">👋 Hey, Solomon here!</h1>
+<h1 align="center" style="font-size: 3rem;">👋 Hey, Solomon here!</h1>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/solomonasregdew" target="_blank">
